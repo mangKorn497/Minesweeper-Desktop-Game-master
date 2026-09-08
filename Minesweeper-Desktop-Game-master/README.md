@@ -41,7 +41,7 @@ IDE สำหรับพัฒนา เช่น IntelliJ IDEA, Eclipse, NetBe
 Clone Repository นี้ลงเครื่องคอมพิวเตอร์ของคุณ:
 
 Bash
-git clone https://github.com/your-username/Minesweeper-Desktop-Game.master.git
+git clone https://github.com/mangKorn497/Minesweeper-Desktop-Game-master.git
 เปิดโปรเจกต์ ผ่าน IDE ที่คุณใช้งาน
 
 ตั้งค่า Classpath / External Libraries:
